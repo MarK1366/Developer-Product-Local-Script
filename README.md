@@ -1,2 +1,1 @@
-# Developer-Product-Local-Script
-Roblox Local Script
+You need to add a developer product not a gamepass!!!
