@@ -1,0 +1,7 @@
+local player = game.Players.LocalPlayer
+local MS = game:GetService("MarketplaceService")
+local donateProductId = (Developer id without brackets!)
+ 
+script.Parent.MouseButton1Click:Connect(function()
+    MS:PromptProductPurchase(player, donateProductId)
+end)
